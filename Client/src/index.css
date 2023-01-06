@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.heading {
+  margin: 3px;
+}
+
+.photo-container {
+  width: 200px;
+  margin: 5px;
+}
+
+.photo {
+  display: block;
+  width: 100%;
+  height: auto;
+}
